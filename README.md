@@ -15,14 +15,15 @@ Face Technology Repository(**Updating**)
 🔥🔥🔥**Website**: https://becauseofAI.github.io/HelloFace 👍👍👍
 
 - [Recent Update](#recent-update)
-  - [2020/01/26](#2020/01/26)
-  - [2019/07/11](#2019/07/11)
-  - [2019/04/06](#2019/04/06)
-  - [2019/01/12](#2019/01/12)
-  - [2018/12/01](#2018/12/01)
-  - [2018/07/21](#2018/07/21)
-  - [2018/04/20](#2018/04/20)
-  - [2018/03/28](#2018/03/28)
+  - [2020-10-02](#2020-10-02)
+  - [2020-01-26](#2020-01-26)
+  - [2019-07-11](#2019-07-11)
+  - [2019-04-06](#2019-04-06)
+  - [2019-01-12](#2019-01-12)
+  - [2018-12-01](#2018-12-01)
+  - [2018-07-21](#2018-07-21)
+  - [2018-04-20](#2018-04-20)
+  - [2018-03-28](#2018-03-28)
 - [Face Benchmark and Dataset](#face-benchmark-and-dataset)
   - [Face Recognition Data](#face-recognition-data)
   - [Face Detection Data](#face-detection-data)
@@ -55,7 +56,147 @@ Face Technology Repository(**Updating**)
 - [Face Lib and Tool](#face-lib-and-tool)
 
 ## 👋Recent Update
-###### 2020/01/26
+###### 2020-10-02
+**ICIP2020**  
+- 3D SPARSE DEFORMATION SIGNATURE FOR DYNAMIC FACE RECOGNITION
+- A Stacking Ensemble for Anomaly Based Client-Specific Face Spoofing Detection
+- ADAPTIVE AGGREGATED TRACKLET LINKING FOR MULTI-FACE TRACKING
+- ATTENTION SELECTIVE NETWORK FOR FACE SYNTHESIS AND POSE-INVARIANT FACE RECOGNITION
+- **EDGE-GAN**: EDGE CONDITIONED MULTI-VIEW FACE IMAGE GENERATION
+- EXTRACTING DEEP LOCAL FEATURES TO DETECT MANIPULATED IMAGES OF HUMAN FACES
+- FACE AUTHENTICATION FROM GRAYSCALE CODED LIGHT FIELD
+- FACE RECOGNITION UNDER LOW ILLUMINATION VIA DEEP FEATURE RECONSTRUCTION NETWORK
+- IMPROVING DETECTION AND RECOGNITION OF DEGRADED FACES BY DISCRIMINATIVE FEATURE RESTORATION USING GAN
+- **QAMFACE**: QUADRATIC ADDITIVE ANGULAR MARGIN LOSS FOR FACE RECOGNITION
+- REALISTIC TALKING FACE SYNTHESIS WITH GEOMETRY-AWARE FEATURE TRANSFORMATION
+- TRIPLET DISTILLATION FOR DEEP FACE RECOGNITION  
+
+**ECCV2020**
+- **“Look Ma, no landmarks!”** – Unsupervised, Model-based Dense Face Alignment
+- Hierarchical Face Aging through Disentangled Latent Characteristics
+- Semi-Siamese Training for Shallow Face Learning
+- Face Super-Resolution Guided by 3D Facial Priors
+- Personalized Face Modeling for Improved Face Reconstruction and Motion Retargeting
+- **ProgressFace**: Scale-Aware Progressive Learning for Face Detection
+- Face Anti-Spoofing with Human Material Perception
+- **Beyond 3DMM Space**: Towards Fine-grained 3D Face Reconstruction
+- Blind Face Restoration via Deep Multi-scale Component Dictionaries
+- Inequality-Constrained and Robust 3D Face Model Fitting
+- **BroadFace**: Looking at Tens of Thousands of People at Once for Face Recognition
+- Explainable Face Recognition
+- **CONFIG**: Controllable Neural Face Image Generation
+- **Sub-center ArcFace**: Boosting Face Recognition by Large-scale Noisy Web Faces
+- **CelebA-Spoof**: Large-Scale Face Anti-Spoofing Dataset with Rich Annotations
+- **Thinking in Frequency**: Face Forgery Detection by Mining Frequency-aware Clues
+- Edge-aware Graph Representation Learning and Reasoning for Face Parsing
+- Learning Flow-based Feature Warping for Face Frontalization with Illumination Inconsistent Supervision
+- **CAFE-GAN**: Arbitrary Face Attribute Editing with Complementary Attention Feature
+- Self-Supervised Monocular 3D Face Reconstruction by Occlusion-Aware Multi-view Geometry Consistency
+- **Generate to Adapt**: Resolution Adaption Network for Surveillance Face Recognition
+- **Caption-Supervised Face Recognition**: Training a State-of-the-Art Face Model without Manual Annotation
+- Design and Interpretation of Universal Adversarial Patches in Face Detection
+- **JNR**: Joint-based Neural Rig Representation for Compact 3D Face Modeling
+- On Disentangling Spoof Trace for Generic Face Anti-Spoofing
+- Towards causal benchmarking of bias in face analysis algorithms
+- Towards Fast, Accurate and Stable 3D Dense Face Alignment
+- Face Anti-Spoofing via Disentangled Representation Learning
+- Learning to Predict Salient Faces: A Novel Visual-Audio Saliency Model
+- **MEAD**: A Large-scale Audio-visual Dataset for Emotional Talking-face Generation
+- **Margin-Mix**: Semi–Supervised Learning for Face Expression Recognition
+- Password-conditioned Anonymization and Deanonymization with Face Identity Transformers
+- Improving Face Recognition by Clustering Unlabeled Faces in the Wild
+- Exclusivity-Consistency Regularized Knowledge Distillation for Face Recognition
+- **BioMetricNet**: deep unconstrained face verification through learning of metrics regularized onto Gaussian distributions
+- Eyeglasses 3D shape reconstruction from a single face image
+- Deep Cross-species Feature Learning for Animal Face Recognition via Residual Interspecies Equivariant Network
+- High Resolution Zero-Shot Domain Adaptation of Synthetically Rendered Face Images
+- **ByeGlassesGAN**: Identity Preserving Eyeglasses Removal for Face Images
+- Jointly De-biasing Face Recognition and Demographic Attribute Estimation
+- Synthesizing Coupled 3D Face Modalities by Trunk-Branch Generative Adversarial Networks
+- Improving Face Recognition from Hard Samples via Distribution Distillation Loss
+- Manifold Projection for Adversarial Defense on Face Recognition  
+
+**SIGGRAPH2020**
+- A System for Efficient 3D Printed Stop-Motion Face Animation
+- Accurate Face Rig Approximation With Deep Differential Subspace Reconstruction
+- **DeepFaceDrawing**: Deep Generation of Face Images from Sketches
+- **The Eyes Have It**: An Integrated Eye and Face Model for Photorealistic Facial Animation  
+
+**IJCAI2020**  
+- Biased Feature Learning for Occlusion Invariant Face Recognition
+- Reference Guided Face Component Editing
+- Arbitrary Talking Face Generation via Attentional Audio-Visual Coherence Learning
+- **FakeSpotter**: A Simple yet Robust Baseline for Spotting AI-Synthesized Fake Faces  
+
+**CVPR2020**  
+- Cross-Modal Deep Face Normals With Deactivable Skip Connections
+- One-Shot Domain Adaptation for Face Generation
+- Towards Learning Structure via Consensus for Face Segmentation and Parsing
+- **BFBox**: Searching Face-Appropriate Backbone and Feature Pyramid Network for Face Detector
+- **Domain Balancing**: Face Recognition on Long-Tailed Domains
+- **FReeNet**: Multi-Identity Face Reenactment
+- Learning Identity-Invariant Motion Representations for Cross-ID Face Reenactment
+- **Global-Local GCN**: Large-Scale Label Noise Cleansing for Face Recognition
+- **3FabRec**: Fast Few-Shot Face Alignment by Reconstruction
+- Global Texture Enhancement for Fake Face Detection in the Wild
+- **CurricularFace**: Adaptive Curriculum Learning Loss for Deep Face Recognition
+- On the Detection of Digital Face Manipulation
+- Deep Spatial Gradient and Temporal Depth Learning for Face Anti-Spoofing
+- **ReDA**:Reinforced Differentiable Attribute for 3D Face Reconstruction
+- Cross-Domain Face Presentation Attack Detection via Multi-Domain Disentangled Representation Learning
+- **FaceScape**: A Large-Scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction
+- Interpreting the Latent Space of GANs for Semantic Face Editing
+- **Rotate-and-Render**: Unsupervised Photorealistic Face Rotation From Single-View Images
+- Disentangled and Controllable Face Image Generation via 3D Imitative-Contrastive Learning
+- Density-Aware Feature Embedding for Face Clustering
+- Learning to Have an Ear for Face Super-Resolution
+- Learning Formation of Physically-Based Face Attributes
+- **LUVLi Face Alignment**: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood
+- Learning Meta Face Recognition in Unseen Domains
+- Cross-Spectral Face Hallucination via Disentangling Independent Factors
+- Deep Face Super-Resolution With Iterative Collaboration Between Attentive Recovery and Landmark Estimation
+- Data Uncertainty Learning in Face Recognition
+- Face X-Ray for More General Face Forgery Detection
+- **Vec2Face**: Unveil Human Faces From Their Blackbox Features in Face Recognition
+- **FM2u-Net**: Face Morphological Multi-Branch Network for Makeup-Invariant Face Verification
+- Uncertainty-Aware Mesh Decoder for High Fidelity 3D Face Reconstruction
+- Enhanced Blind Face Restoration With Multi-Exemplar Images and Adaptive Spatial Feature Fusion
+- **SER-FIQ**: Unsupervised Estimation of Face Image Quality Based on Stochastic Embedding Robustness
+- Towards High-Fidelity 3D Face Reconstruction From In-the-Wild Images Using Graph Convolutional Networks
+- **RDCFace**: Radial Distortion Correction for Face Recognition
+- Searching Central Difference Convolutional Networks for Face Anti-Spoofing
+- **RetinaFace**: Single-Shot Multi-Level Face Localisation in the Wild
+- Mitigating Bias in Face Recognition Using Skewness-Aware Reinforcement Learning
+- **DeeperForensics-1.0**: A Large-Scale Dataset for Real-World Face Forgery Detection
+- **GroupFace**: Learning Latent Groups and Constructing Group-Based Representations for Face Recognition
+- A Morphable Face Albedo Model
+- Learning Oracle Attention for High-Fidelity Face Completion
+- Learning Physics-Guided Face Relighting Under Directional Light
+- Towards Universal Representation Learning for Deep Face Recognition
+- Rotation Consistent Margin Loss for Efficient Low-Bit Face Recognition
+- **HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection
+- Hierarchical Pyramid Diverse Attention Networks for Face Recognition
+- Dynamic Face Video Segmentation via Reinforcement Learning
+- Copy and Paste GAN: Face Hallucination From Shaded Thumbnails
+- Single-Side Domain Generalization for Face Anti-Spoofing  
+
+**AAAI2020** 
+- Fast and Robust Face-to-Parameter Translation for Game Character Auto-Creation
+- Mis-classified Vector Guided Softmax Loss for Face Recognition
+- Learning Meta Model for Zero- and Few-shot Face Anti-spoofing
+- Learning to Deblur Face Images via Sketch Synthesis
+- **FAN-Face**: a simple orthogonal improvement to deep face recognition
+- **KPNet**: Towards Minimal Face Detector
+- Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos
+- Regularized Fine-grained Meta Face Anti-spoofing
+- **GDFace**: Gated Deformation for Multi-view Face Image Synthesis
+- Realistic Face Reenactment via Self-Supervised Disentangling of Identity and Pose
+- **MarioNETte**: Few-shot Face Reenactment Preserving Identity of Unseen Targets
+- A New Dataset and Boundary-Attention Semantic Segmentation for Face Parsing
+- Video Face Super-Resolution with Motion-Adaptive Feedback Cell
+- Facial Attribute Capsules for Noise Face Super Resolution
+- Joint Super-Resolution and Alignment of Tiny Faces
+###### 2020-01-26
 - **UGG**: Uncertainty Modeling of Contextual-Connections Between Tracklets for Unconstrained Video-Based Face Recognition
 - **PDSN**: Occlusion Robust Face Recognition Based on Mask Learning With Pairwise Differential Siamese Network
 - Attentional Feature-Pair Relation Networks for Accurate Face Recognition
@@ -88,7 +229,7 @@ Face Technology Repository(**Updating**)
 - **From Inference to Generation**: End-to-end Fully Self-supervised Generation of Human Face from Speech
 - **PFSR**: Progressive Face Super-Resolution via Attention to Facial Landmark
 
-###### 2019/07/11
+###### 2019-07-11
 - Deep face recognition using imperfect facial data
 - Unequal-Training for Deep Face Recognition With Long-Tailed Noisy Data
 - **RegularFace**: Deep Face Recognition via Exclusive Regularization
@@ -164,7 +305,7 @@ Face Technology Repository(**Updating**)
 - Monocular Total Capture: Posing Face, Body, and Hands in the Wild
 - Expressive Body Capture: 3D Hands, Face, and Body From a Single Image
 
-###### 2019/04/06
+###### 2019-04-06
 - **ISRN**: Improved Selective Refinement Network for Face Detection
 - **DSFD**: Dual Shot Face Detector
 - **PyramidBox++**: High Performance Detector for Finding Tiny Face
@@ -181,13 +322,13 @@ Face Technology Repository(**Updating**)
 - **DiF**: Diversity in Faces
 - **2018Survey**: Face Recognition: From Traditional to Deep Learning Methods
 
-###### 2019/01/12
+###### 2019-01-12
 - **2018Survey**: Deep Facial Expression Recognition: A Survey
 - **2018Survey**: Deep Face Recognition: A Survey
 - **SphereFace+(MHE)**: Learning towards Minimum Hyperspherical Energy
 - **HyperFace**: A Deep Multi-task Learning Framework for Face Detection, Landmark Localization, Pose Estimation, and Gender Recognition
 
-###### 2018/12/01
+###### 2018-12-01
 - **FRVT**: Face Recognition Vendor Test
 - **GANimation**: Anatomically-aware Facial Animation from a Single Image
 - **StarGAN**: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation
@@ -206,12 +347,12 @@ Face Technology Repository(**Updating**)
 - **CocoLoss**: Rethinking Feature Discrimination and Polymerization for Large-scale Recognition
 - **L-Softmax**: Large-Margin Softmax Loss for Convolutional Neural Networks
 
-###### 2018/07/21
+###### 2018-07-21
 - **MobileFace**: A face recognition solution on mobile device
 - **Trillion Pairs**: Challenge 3: Face Feature Test/Trillion Pairs
 - **MobileFaceNets**: Efficient CNNs for Accurate Real-Time Face Verification on Mobile Devices
 
-###### 2018/04/20
+###### 2018-04-20
 - **PyramidBox**: A Context-assisted Single Shot Face Detector
 - **PCN**: Real-Time Rotation-Invariant Face Detection with Progressive Calibration Networks
 - **S³FD**: Single Shot Scale-invariant Face Detector
@@ -222,7 +363,7 @@ Face Technology Repository(**Updating**)
 - **SeetaFaceEngine**: SeetaFace Detection, SeetaFace Alignment and SeetaFace Identification.
 - **FaceID**: An implementation of iPhone X's FaceID using face embeddings and siamese networks on RGBD images.
 
-###### 2018/03/28
+###### 2018-03-28
 - **InsightFace(ArcFace)**: 2D and 3D Face Analysis Project
 - **CosFace**: Large Margin Cosine Loss for Deep Face Recognition
 
